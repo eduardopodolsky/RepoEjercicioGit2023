@@ -41,7 +41,7 @@
         <inputAssignments>
             <field>Type</field>
             <value>
-                <stringValue>Customer - Direct</stringValue>
+                <stringValue>Technology Partner</stringValue>
             </value>
         </inputAssignments>
         <inputReference>$Record</inputReference>
